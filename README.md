@@ -5,4 +5,4 @@
 3. restart
 4. check
   - run powershell as admin
-  !(./result.png)
+  ![](./result.png)
